@@ -1,0 +1,12 @@
+C:\Users\artha\source\repos\MV_PSUControl\PSU_Library\bin\Debug\net6.0\PSU_Library.deps.json
+C:\Users\artha\source\repos\MV_PSUControl\PSU_Library\bin\Debug\net6.0\PSU_Library.dll
+C:\Users\artha\source\repos\MV_PSUControl\PSU_Library\bin\Debug\net6.0\PSU_Library.pdb
+C:\Users\artha\source\repos\MV_PSUControl\PSU_Library\obj\Debug\net6.0\PSU_Library.csproj.AssemblyReference.cache
+C:\Users\artha\source\repos\MV_PSUControl\PSU_Library\obj\Debug\net6.0\PSU_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artha\source\repos\MV_PSUControl\PSU_Library\obj\Debug\net6.0\PSU_Library.AssemblyInfoInputs.cache
+C:\Users\artha\source\repos\MV_PSUControl\PSU_Library\obj\Debug\net6.0\PSU_Library.AssemblyInfo.cs
+C:\Users\artha\source\repos\MV_PSUControl\PSU_Library\obj\Debug\net6.0\PSU_Library.csproj.CoreCompileInputs.cache
+C:\Users\artha\source\repos\MV_PSUControl\PSU_Library\obj\Debug\net6.0\PSU_Library.dll
+C:\Users\artha\source\repos\MV_PSUControl\PSU_Library\obj\Debug\net6.0\refint\PSU_Library.dll
+C:\Users\artha\source\repos\MV_PSUControl\PSU_Library\obj\Debug\net6.0\PSU_Library.pdb
+C:\Users\artha\source\repos\MV_PSUControl\PSU_Library\obj\Debug\net6.0\ref\PSU_Library.dll
